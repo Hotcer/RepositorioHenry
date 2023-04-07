@@ -5,3 +5,5 @@ console.log(Math.ceil(2.49)); //,ceil: para redondear al siguiente entero 2.15= 
 console.log(Math.max(2,3,5,24,25,85,96)); // .max: para conocer el numero maximo de un conjunto =96
 console.log(Math.min(2,3,5,24,25,85,96)); //.min: para conocer el numero minimo de un conjunto =2
 console.log(Math.random());//.random: Para generar un numero decimal aleatorio entre el 0 y el 1
+Gg$L9CoiN@w9mr
+console.log(Math.random());//.random: Para generar un numero decimal aleatorio entre el 0 y el 1
