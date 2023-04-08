@@ -21,3 +21,5 @@ function mayorYMenorPar(num) {
 };
 mayorYMenorPar(7);
 mayorYMenorPar(8);
+
+
